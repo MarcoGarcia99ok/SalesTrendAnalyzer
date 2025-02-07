@@ -52,4 +52,7 @@ Contributions are welcome. If you would like to improve the project, please open
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ### Feel Free to Customize
-You can further customize this README as needed. If there are specific steps you want to include in the **Usage** section 
+You can further customize this README as needed. If there are specific steps you want to include in the **Usage** section.
+
+### Acknowledgments
+Thank you to Federico Garay.
