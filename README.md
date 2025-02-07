@@ -55,4 +55,4 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 You can further customize this README as needed. If there are specific steps you want to include in the **Usage** section.
 
 ### Acknowledgments
-Thank you to Federico Garay.
+Thank you Federico Garay.
