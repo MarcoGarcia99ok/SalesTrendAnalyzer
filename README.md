@@ -21,7 +21,8 @@ Ensure you have the following software installed:
   - scikit-learn
   - matplotlib
   - seaborn
- 
+- Jupyter Notebook 7.x
+
 ## Data
 The project uses a CSV file named Sales.csv, which should be located in the same folder as the Jupyter notebook. The file contains the following columns:
 
