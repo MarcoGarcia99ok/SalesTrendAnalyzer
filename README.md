@@ -25,22 +25,22 @@ Ensure you have the following software installed:
 ## Data
 The project uses a CSV file named Sales.csv, which should be located in the same folder as the Jupyter notebook. The file contains the following columns:
 
-  Date: Date of the sales.
-  Weekday: Day of the week (1-7).
-  Promotions: Promotion indicator (1 if there is a promotion, 0 if not).
-  Holiday: Holiday indicator (1 if it is a holiday, 0 if not).
-  Sales: Number of sales made.
+  - Date: Date of the sales.
+  - Weekday: Day of the week (1-7).
+  - Promotions: Promotion indicator (1 if there is a promotion, 0 if not).
+  - Holiday: Holiday indicator (1 if it is a holiday, 0 if not).
+  - Sales: Number of sales made.
 
 ## Usage
   1. Clone the repository or download the necessary files.
   2. Ensure that the Sales.csv file is in the same directory as the Jupyter notebook.
   3. Open the Jupyter notebook and run the cells in order.
   4. The code will perform the following actions:
-     Load the data from the CSV file.
-     Normalize the data using MinMaxScaler.
-     Split the data into training and testing sets.
-     Train several regression models and display their accuracy.
-     Evaluate the linear regression model, showing graphs of actual vs. predicted sales.
+     - Load the data from the CSV file.
+     - Normalize the data using MinMaxScaler.
+     - Split the data into training and testing sets.
+     - Train several regression models and display their accuracy.
+     - Evaluate the linear regression model, showing graphs of actual vs. predicted sales.
 
 ## Example
 An example of how to run the analysis is available in the Jupyter notebook. Simply execute the cells one by one to see the results.
